@@ -3,8 +3,8 @@
 
 <h2 align="center">Things I'm Currently Busy With</h2>
 <ul>
-    <li>I'm studying towards my Diploma at VUT (Graduating April, 2023)</li>
-    <li>I'm enrolled in the Full Stack Software Engineer at ALX (Graduating July, 2023)</li>
+    <li>I'm studying towards my Diploma in IT, at VUT (Graduating April, 2023)</li>
+    <li>I'm enrolled in the Full Stack Software Engineer course at ALX (Graduating July, 2023)</li>
     <li>I'm learning React + working on my personal website</li>
 </ul>
 
